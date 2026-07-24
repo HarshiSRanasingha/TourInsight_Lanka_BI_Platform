@@ -32,7 +32,7 @@ See "TourInsight.pdf" for full project details (objectives, methodology, budget,
 ## 📅 Timeline (8 weeks)
 Requirements → Research → Design → Database → Data Collection → Dashboards → Testing → Documentation
 
-### ---------------------------------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------
 
 # TourInsight Lanka 🇱🇰
 
